@@ -1,0 +1,14 @@
+{
+    "name": "etienne/structure",
+    "description": "App movies greta formation",
+    "authors": [
+        {
+            "name": "Etienne",
+            "email": "etienne.herencia@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.0",
+        "altorouter/altorouter": "^2.0"
+    }
+}
